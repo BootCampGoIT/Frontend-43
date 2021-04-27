@@ -1,18 +1,15 @@
 import React from "react";
 
-const Navigation = ({ navigation }) => {
-
-  return (
-    <nav>
-      <ul>
-        {navigation.map((item) => (
-          <li key={item.path}>
-            <a href={item.path}>{item.name}</a>
-          </li>
-        ))}
-      </ul>
-    </nav>
-  );
-};
+const Navigation = ({ navigation }) => (
+  <nav>
+    <ul>
+      {navigation.map(({ path, name }) => (
+        <li key={path}>
+          <a href={path}>{name}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+);
 
 export default Navigation;
