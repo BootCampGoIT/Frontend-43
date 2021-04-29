@@ -1,6 +1,7 @@
-import data1 from "./products.json";
-import data2 from "./jsonData2.json";
+import cars from "./products.json";
 
-const data = { data1, data2 };
+const data = { cars };
 
 export default data;
+
+

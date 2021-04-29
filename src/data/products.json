@@ -1,14 +1,49 @@
 [
   {
-    "name": "Milk",
-    "price": "200"
+    "id": "dfghjkl",
+    "model": "Toyota Land Cruiser HERITAGE",
+    "colors": ["red", "green", "blue"],
+    "photo": "https://static.wixstatic.com/media/693312_45ca5c781be74367b2cf3c4765245101~mv2.jpg/v1/fill/w_735,h_551,al_c,q_85,usm_0.66_1.00_0.01/693312_45ca5c781be74367b2cf3c4765245101~mv2.webp",
+    "isUsed": true,
+    "price": "49 000"
   },
   {
-    "name": "Water",
-    "price": "100"
+    "id": "dfghjafsdfdskl",
+    "model": "Mercedes-Benz GLE",
+    "colors": ["red", "green", "blue", "black"],
+    "photo": "https://static.wixstatic.com/media/693312_c0204cfa958840a0814eb477fef00911~mv2.jpg/v1/fill/w_735,h_551,al_c,q_85,usm_0.66_1.00_0.01/693312_c0204cfa958840a0814eb477fef00911~mv2.webp",
+    "isUsed": false,
+    "price": "142 000"
   },
   {
-    "name": "Juice",
-    "price": "300"
+    "id": "dfghasdasdjkl",
+    "model": "Honda Accord Sedan LX 1.5T",
+    "colors": ["red", "yellow", "white", "black"],
+    "photo": "https://static.wixstatic.com/media/112d92_22f18db0d68143dd846de488f92857a2~mv2.jpg/v1/fill/w_735,h_551,al_c,q_85,usm_0.66_1.00_0.01/112d92_22f18db0d68143dd846de488f92857a2~mv2.webp",
+    "isUsed": true,
+    "price": "202 000"
+  },
+  {
+    "id": "dfghasdsadjkl",
+    "model": "Toyota Land Cruiser HERITAGE",
+    "colors": ["red", "green", "blue"],
+    "isUsed": true,
+    "price": "49 000"
+  },
+  {
+    "id": "dfghjadasdfsdfdskl",
+    "model": "Mercedes-Benz GLE",
+    "colors": ["red", "green", "blue", "black"],
+    "photo": "https://static.wixstatic.com/media/693312_c0204cfa958840a0814eb477fef00911~mv2.jpg/v1/fill/w_735,h_551,al_c,q_85,usm_0.66_1.00_0.01/693312_c0204cfa958840a0814eb477fef00911~mv2.webp",
+    "isUsed": false,
+    "price": "142 000"
+  },
+  {
+    "id": "dfghasdaasdsasdjkl",
+    "model": "Honda Accord Sedan LX 1.5T",
+    "colors": ["red", "yellow", "white", "black"],
+    "photo": "https://static.wixstatic.com/media/112d92_22f18db0d68143dd846de488f92857a2~mv2.jpg/v1/fill/w_735,h_551,al_c,q_85,usm_0.66_1.00_0.01/112d92_22f18db0d68143dd846de488f92857a2~mv2.webp",
+    "isUsed": true,
+    "price": "202 000"
   }
 ]

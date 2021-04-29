@@ -1,0 +1,23 @@
+@value navLink from '../../index.module.css';
+@value colored from '../../index.module.css';
+
+.navigationList {
+  display: flex;
+  list-style: none;
+}
+
+.navigationListItem:not(:last-child) {
+  margin-right: 20px;
+}
+
+.navigationLink {
+  text-decoration: none;
+  font-size: navLink;
+  color: colored;
+}
+
+.burger {
+  width: 30px;
+  height: 30px;
+  fill: cornflowerblue;
+}
